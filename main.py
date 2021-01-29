@@ -90,4 +90,3 @@ draw_chakra()
 # hide the cursor/turtle
 smruti.hideturtle()
 screen.mainloop()
-#
