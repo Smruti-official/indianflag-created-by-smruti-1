@@ -1,12 +1,10 @@
-
+# Indian_flag in python by Smrutiofficial.com
 import turtle
 import time
 
-# "Yesterday is history, tomorrow is a mystery, 
-# but today is a gift. That is why it is called the present.”
-# — smruti to Po, under the peach tree, Kung Fu Panda Movie
+# turtle as smruti
 smruti = turtle.Turtle()
-# set the cursor/turtle speed. Higher value, faster is the turtle
+
 smruti.speed(100)
 smruti.penup()
 # decide the shape of cursor/turtle
