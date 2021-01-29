@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smruti Prakash Rout</h1>
-<h3 align="center">A passionate about programming and love to learn different skils . I am a student,and a learner and full stack developer.</h3>
+<h3 align="center">I'm passionate about programming and love to learn different skils . I am a student,and a learner and full stack developer.</h3>
 
 - 🔭 I’m currently working on **Python projects**
 
